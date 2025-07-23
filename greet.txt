@@ -3,3 +3,6 @@ Hello Git
 
 Welcome!!!
 this is first commit
+
+Welcome to GITHUB!!!
+How are you guys
